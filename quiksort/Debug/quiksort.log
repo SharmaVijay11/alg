@@ -1,0 +1,4 @@
+﻿  quiksort.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  quiksort.vcxproj -> C:\Users\Казахстан\Documents\Visual Studio 2015\Projects\quiksort\Debug\quiksort.exe
+  quiksort.vcxproj -> C:\Users\Казахстан\Documents\Visual Studio 2015\Projects\quiksort\Debug\quiksort.pdb (Partial PDB)
